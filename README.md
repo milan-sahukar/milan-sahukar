@@ -59,6 +59,23 @@ const milan = {
 
 ---
 
+## 👨‍💻 Coding & Shipping
+
+<div align="center">
+
+<!-- Animated developer-at-work illustration -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Animated developer coding at a computer"/>
+
+<br/>
+
+**Plan → Code → Test → Ship → Repeat**
+
+*Building one feature at a time and learning with every commit.*
+
+</div>
+
+---
+
 ## 🚀 Featured Project
 
 <div align="center">
