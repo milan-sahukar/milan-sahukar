@@ -1,0 +1,1 @@
+id.png is a background-removed cutout derived from the user-supplied formal portrait. right_pointing.png is the same cutout reused to preserve face consistency; the connect SVG draws a directional arrow instead of fabricating a new pose.
